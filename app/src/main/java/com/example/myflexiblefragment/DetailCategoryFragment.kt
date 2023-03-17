@@ -20,10 +20,10 @@ class DetailCategoryFragment : Fragment() {
         var EXTRA_DESCRIPTION = "extra_description"
     }
 
-    lateinit var tvCategoryName: TextView
-    lateinit var tvCategoryDescription: TextView
-    lateinit var btnProfile: Button
-    lateinit var btnShowDialog: Button
+    private lateinit var tvCategoryName: TextView
+    private lateinit var tvCategoryDescription: TextView
+    private lateinit var btnProfile: Button
+    private lateinit var btnShowDialog: Button
 
 
 
